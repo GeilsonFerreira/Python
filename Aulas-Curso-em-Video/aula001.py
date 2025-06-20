@@ -1,1 +1,0 @@
-print('Este arquivo é um texte da aula do curso em vídeo')
