@@ -1,2 +1,2 @@
 # Python
-Repositório de conteúdos das aulas de Python
+Este é um repositório das aulas de Python
